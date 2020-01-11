@@ -1,11 +1,11 @@
 # Site settings
 title: thanatos.be
 description: >
-    thanatos.be
+    ausloos.kim
 author: Kim Ausloos
 email: kim@thanatos.be
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://thanatos.be" # the base hostname & protocol for your site
+url: "http://ausloos.kim" # the base hostname & protocol for your site
 twitter_username: kamme
 github_username:  kimausloos
 
