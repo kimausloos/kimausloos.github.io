@@ -1,0 +1,34 @@
+---
+layout: page
+---
+<article class="c-article">
+    <header class="c-article__header">
+        <h1 class="c-article__title">{{ page.title }}</h1>
+        <p class="c-article__time"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+    </header>
+    <div class="c-article__main">
+        {{ content }}
+    </div>
+
+    <div class="c-article__navigation">
+        <div class="c-article__previous">
+        {% if page.previous.url %}
+            <a href="{{page.previous.url}}" title="{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        {% endif %}
+        </div>
+
+        <div class="c-article__next">
+        {% if page.next.url %}
+            <a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}} &raquo;</a>
+        {% endif %}
+        </div>
+    </div>
+
+    <footer class="c-article__footer">
+        <p>
+        {% for tag in page.tags %}
+            <span class="c-tag">{{ tag }}</span>
+        {% endfor %}
+        </p>
+    </footer>
+</article>

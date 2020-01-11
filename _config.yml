@@ -1,0 +1,24 @@
+# Site settings
+title: thanatos.be
+description: >
+    thanatos.be
+author: Kim Ausloos
+email: kim@thanatos.be
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://thanatos.be" # the base hostname & protocol for your site
+twitter_username: kamme
+github_username:  kimausloos
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+
+gist:
+  noscript: false

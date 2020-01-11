@@ -1,0 +1,41 @@
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: solid black 1px;
+  padding: .4em;
+}
+
+.git th, td {
+  border-width: 0px;
+}
+
+.c-archives h1 {
+  font-size: 2em;
+}
+
+.c-article__navigation {
+  font-size: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.c-article__previous {
+  width: 45%;
+}
+
+.c-article__next {
+  width: 45%;
+  text-align: right;
+}
+
+.c-article__navigation a {
+  font-size: 1.5em;
+}
+
+code.highlighter-rouge {
+  background-color: #eeeeee;
+  padding: 3px;
+  color: #000000;
+}

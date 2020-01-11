@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/kimausloos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thanatos.be
+  * I am kimausloos (https://keybase.io/kimausloos) on keybase.
+  * I have a public key with fingerprint CECB EFDB B4FE 3A68 F297  8B0C 3BE1 56DE 81A2 0DB7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "cecbefdbb4fe3a68f2978b0c3be156de81a20db7",
+            "host": "keybase.io",
+            "key_id": "3be156de81a20db7",
+            "uid": "445588a2b2db8d1ea5237a960b348400",
+            "username": "kimausloos"
+        },
+        "service": {
+            "hostname": "thanatos.be",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398281880,
+    "expire_in": 157680000,
+    "prev": "4ef4fb2af6f350f7385a89fa5a021c21fde9e93cc651f21633416e750c8f4483",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.11
+Comment: https://keybase.io/crypto
+
+yMHzAnicbZFdTBxVFMd32wXaLRsg/YgPSMxYn9zifH3c2X2CpiGKoQ2EKGXj9t6Z
+O8tUmFl2ZqF0xaZAxNiVEDGGSBckRoIGCW8QRbPZlELDNjGEluALTbQfEX1BtF0K
+gTuEvvW+3Nz/+f3/556cW77DLq97vDFT9HXaI7sX0xtxV937pwYTFDLVDiqQoD7E
++5emGxEci8Z0w6YClIIVhDUVIV7DHBSBxsoSQLTCIcwIoooBA1laRRLlp5pMy3GQ
+GAQtXK6bRCOPsK4S9SV8fL/A84IAAGQRqyKgMhgKLCdBWaQRxwOeph3QwjEDtmAn
+XG+BcavZNC2q008RvU1XiJ7Yb37A2E3QgLZplSNMzNGYaZuK2UwKTbYdDTg+uyPq
+gO0YhQ8iwkg3VDI4MbThmKWbBhVgCKnYupPJcDJgAQMA7afwlagew2HdIQRJBDQ5
+Thvc5kyDNV5DLNREjRNoTeKAAIGsQQHSLKOwjKZiGcucoogCo7GMyHE8I2JJoBWg
+8TzgSH8LtxomFWDJN2GERFp6hIwTj2GqM5MOeVxurys/75CzOpf3aPGLhWbXCnYb
+EwWvt3859Xt1ufaqt/iT4eWB72uflNUa2/SN8ceXulOewbS7v+aMb2imvsW3GPkr
+9Jn63d+h7Mrmo+LCBZj/7vyfW8H6pZH1mtS1c+fHB7bf61W+yZROa8dSV+99/FHy
+Z70I5lqri/TuVDbzwVs/BGfnLvxUNzZwu6end+XT0J05Na/iZO6fkapVdiexddH6
+98TO28dRmZT9pa9PmleC/M3RxbLPG6ZOF3DMckmwMPnj7iyYDnfcXb//xhGmcvLZ
+2Ff9eaUNE12V7Ogfkxu5Idfl//zCr2sTKc9Z4/qDN1dzT3Mlzx/+tvmFb+Z/kBz2
+fPtKKrk0s1PV/1rtO3LXQsUe3yoXOw==
+=34dw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kimausloos
+
+==================================================================
+
