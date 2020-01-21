@@ -29,7 +29,7 @@ Since Terraform is all about infrastructure it can also take down a full infrast
 <br />
 
 ### What when you need them both?
-You probably get now Ansible is all about running tasks, configuring machines but also about workflows that touch a bit of everything. Terraform is the tool to make sure you have a complete environment spun up on AWS and also delete it all when you're done with it. But sometimes you want to spin up a whole environment and then run some workflows to configure everything or do deploys.
+You probably get now Ansible is all about running tasks, configuring machines; but also about workflows that touch a bit of everything. Terraform is the tool to make sure you have a complete environment spun up on AWS and also delete it all when you're done with it. But sometimes you want to spin up a whole environment and then run some workflows to configure everything or do deploys.
 
 Well, Ansible has a [Terraform module](https://docs.ansible.com/ansible/latest/modules/terraform_module.html) that allows you to run `terraform apply` while executing an `ansible-playbook`. That way you can start creating a complete infrasturcture and when done (successfully) start doing the rest of the actions needed to make sure everything is done.
 
